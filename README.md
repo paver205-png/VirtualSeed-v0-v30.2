@@ -113,4 +113,4 @@ The author expresses his gratitude for the collaborative environment and shared 
 Special thanks to the **Gemini AI (Orion)** and **Google** for their critical role in the conceptual formalization and preparation of this paper, and to **Eli** and **Claude** for their invaluable contributions to the refinement of the VirtualSeed vision.
 
 ---
-*Footnote: The author expresses gratitude to Google for its help in preparing the article.*
+
